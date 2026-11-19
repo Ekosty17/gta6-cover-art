@@ -4,13 +4,13 @@
 [![rank](https://make.fun/badge/gta6-cover-art-01/Ekosty17/gta6-cover-art/rank.svg)](https://make.fun/bounty/gta6-cover-art-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=gta6-cover-art-01)
 [![reward](https://make.fun/badge/gta6-cover-art-01/Ekosty17/gta6-cover-art/reward.svg)](https://make.fun/bounty/gta6-cover-art-01?utm_source=github&utm_medium=readme&utm_campaign=gta6-cover-art-01)
 
-Vice Cover Maker — an offline web app that turns any photo and a caption into multi-panel GTA 6-style cover art: bold lettering, sunset and neon colour grades, grain and vignette, exported as PNG at 1080×1080, 1080×1350 and 1920×1080. Photos never leave the machine.
+An offline web app that turns any photo and caption into multi-panel GTA 6-style cover art, styled like a Vice City poster and exportable as a PNG.
 
 ## Run it
 
 ```sh
 node serve.ts
-# open http://localhost:8080
+# then open http://localhost:8080
 ```
 
 ---
